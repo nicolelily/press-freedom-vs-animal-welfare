@@ -13,6 +13,6 @@ Built with [SvelteKit](https://svelte.dev/docs/kit), [Observable Plot](https://o
 - [World Animal Protection Animal Protection Index](https://api.worldanimalprotection.org/)
 - [RSF World Press Freedom Index](https://rsf.org/en/index)
 
-## Author
+## Interactive visualization
 
-[Nicole Mark](https://www.nicoledesignsdata.net)
+🔗[Do countries with more press freedom treat their animals better?](https://nicolelily.github.io/press-freedom-vs-animal-welfare/)
