@@ -24,6 +24,8 @@ jobs:
           deno-version: v2.x
       - run: deno install
       - run: deno task build
+        env:
+          BASE_PATH: /press-freedom-vs-animal-welfare
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build

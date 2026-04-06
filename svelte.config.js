@@ -7,7 +7,7 @@ const config = {
   kit: {
     adapter: adapter(),
     paths: {
-      base: process.argv.includes("build") ? "/press-freedom-vs-animal-welfare" : "",
+      base: process.env.BASE_PATH || "",
     },
   },
 };
